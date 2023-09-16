@@ -1,0 +1,104 @@
+---
+object: card
+id: 4c4d4289-d734-42d3-92c5-affdb21f719b
+oracle_id: b13c0f76-fbda-4911-9442-c3d7e97f1aac
+multiverse_ids: []
+tcgplayer_id: 11055
+name: Remove Soul
+lang: en
+released_at: '2003-07-28'
+uri: https://api.scryfall.com/cards/4c4d4289-d734-42d3-92c5-affdb21f719b
+scryfall_uri: https://scryfall.com/card/8ed/95%E2%98%85/remove-soul?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.jpg?1675829689
+  normal: https://cards.scryfall.io/normal/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.jpg?1675829689
+  large: https://cards.scryfall.io/large/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.jpg?1675829689
+  png: https://cards.scryfall.io/png/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.png?1675829689
+  art_crop: https://cards.scryfall.io/art_crop/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.jpg?1675829689
+  border_crop: https://cards.scryfall.io/border_crop/front/4/c/4c4d4289-d734-42d3-92c5-affdb21f719b.jpg?1675829689
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Counter target creature spell.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cae8d29d-5979-4d8f-884d-7f3183bcc886
+set: 8ed
+set_name: Eighth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/cae8d29d-5979-4d8f-884d-7f3183bcc886
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A8ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/8ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4c4d4289-d734-42d3-92c5-affdb21f719b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab13c0f76-fbda-4911-9442-c3d7e97f1aac&unique=prints
+collector_number: 95★
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adam Rex
+artist_ids:
+- 445bd2fb-4a70-4599-87a4-83cf5979fc56
+illustration_id: e1922dfa-3d34-41e2-9350-14b704c9739d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11239
+penny_rank: 1597
+prices:
+  usd: 
+  usd_foil: '0.84'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Remove+Soul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Remove+Soul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Remove+Soul
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11055?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Remove+Soul&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Remove+Soul&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
